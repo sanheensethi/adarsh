@@ -1,0 +1,7 @@
+SJCPump400,2021-10-06 10:10:11.882000+00:00,Connection,false
+SJCPump400,2021-10-06 10:10:12.012000+00:00,Connection,true
+SJCPump400,2021-10-07 06:52:24.187000+00:00,Connection,false
+SJCPump400,2021-10-07 06:52:24.187000+00:00,ConnectionStatusCalibrated,Offline
+SJCPump400,2021-10-07 06:52:25.867000+00:00,ConnectionStatusCalibrated,Online
+SJCPump400,2021-10-07 06:52:25.867000+00:00,Connection,true
+SJCPump400,2021-10-25 07:01:31.005000+00:00,RemainingPumpLife,2021.0
